@@ -1,0 +1,1 @@
+{"name": "claripay", "private": true, "dependencies": {"next": "14.x", "react": "^18.x", "react-dom": "^18.x", "typescript": "^5.x", "@shadcn/ui": "^1.x", "tailwindcss": "^3.x"}}
